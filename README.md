@@ -1,5 +1,7 @@
 ## Hi there, I'm Emily 👋
 
+Junior Java Web Developer
+
 <!--
 **Emily1303/Emily1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
